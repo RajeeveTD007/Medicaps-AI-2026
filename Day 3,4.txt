@@ -1,0 +1,98 @@
+types of Learning
+1.supervised Learning -(Train,Test)-[Regression,classification]
+2.Unsupervised-recognize pattern
+Recommendation system-[clustering] 
+3.Reinforced -realtime,quick-
+AI gaming
+
+1.Regression -Numerical -Weather.Prediction,stocks/gold 
+
+2.Classif-Yes/No-spam filter,medical diagnosis
+
+3.Clustering - Groups/Clusters-Recommendation system
+________________________
+
+matplotlib
+seaborn- heatmap,
+___________________
+
+Testing /Inference/ Validation
+
+1.Load Dataset
+2.Data preprocessing-encoding
+3.Select Target
+Dataset--->train,test
+        split
+(supervised)
+X,y-->X_train,y_train,
+X_test,y_test
+4.model
+5.train
+6.test
+7.metrics
+8.Visualization
+-------------------------------
+Automate
+brain,decide
+debug
+generate 
+problem solving
+edit
+summarize
+---
+Precision: The percentage of your model's positive predictions that were actually correct.
+
+Recall: The percentage of all actual positives that your model successfully found.
+
+F1-Score: The balanced harmonic mean combining precision and recall into a single metric.
+
+Support: The actual number of true occurrences of each class in the dataset.
+----
+iloc means integer-location based indexing.
+Index	Column
+0	First column
+1	Second column
+2	Third column
+3	Fourth column
+X-axis = third column
+Y-axis = fourth column
+----
+cmap-colour map
+plasma
+magma
+cool
+hot
+
+-----------
+
+pip install scikit-learn gradio pandas
+
+notepad pizza_app.py
+
+dir
+
+python pizza_app.py
+
+_________________
+
+
+Search Algs's 
+types
+BFS,A*-implementation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

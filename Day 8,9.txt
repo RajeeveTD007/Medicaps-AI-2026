@@ -1,0 +1,94 @@
+Neural Network
+---------------
+
+1.import(dataset)
+2.split(normalize)
+3.define- Model -activation
+4.compile- loss,optimiz(learning rate),accuracy
+5.Train
+6.testing
+7.visualiz
+
+
+
+MNIST
+Handwritten digits (0-9)
+resolution - 28*28 - 784
+0-255-pixel (0-black ,255-white)
+-------------
+o/p - 10
+--------------
+Normalization
+/255
+0-255
+0-1
+---------
+
+
+0.5-->0.56000009
+____________________
+
+o/p-10
+64
+128
+784-i/p
+-----
+RELU
+-0.9452-->0
+0.76653-->0.76653
+
+SOFTMAX
+probabilty-o/p
+-----
+single vector-value (i/p)--->densely connected network /NN
+--------------------------
+ADAM- Adaptive Moment Estimation
+ Y?
+Fast Convergence
+Adaptive Learning
+good -Large Datasets
+less manual training
+default
+
+----------------------
+RNN
+seed text
+100 words on India-India is the most
+symbolic AI-->AI subset--ML--DL
+
+NN-->RNN-->LSTM-->LLM (transformer)-->RAG
+AI Agent,Agentic AI
+
+---------------
+1.sample reviw + label
+2.clean review -remove punctuations,lower case
+3.tokenize (word-- unique Number)
+5.Pad sequen (seq length )
+6.Building the model
+i/p sentence--> embedding --> 
+RNN->Linear(fc)->sigmoid --> sentiment.
+7.Train
+8.Test
+embed-->16
+0.833330000007
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,126 @@
+nano banana
+data management
+snap chat
+copilot
+siri,alexa
+attendance
+finance,stocks
+cyber
+chatgpt,perplexity,gemini
+health care - cancer,
+weather prediction
+google translate
+google lens,
+generate websites
+smart tv,
+robotic
+face detection
+automobiles
+google map
+self driving cars
+recommendation system
+chatbot
+animation
+3D
+auto correct
+face pattern pin -mobile
+learning - prediction
+spam filter
+---------------------
+Goa
+
+1.select destination
+2.count
+3.places 
+4.Budget
+5.Travel,days,stay
+6.finalize
+
+1.duplicate
+2.mistake/error
+3.missing data
+4.irrelavent
+5.excessive - outlier
+Dataset--> Clean Dataset//Transformation -Data Preprocesing
+----
+
+
+
+
+
+
+text
+vido
+gif
+img 
+docu
+stiker
+link
+
+
+structured- excel
+unstruc-img/audio
+semistructured-email
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+_________________________________
+
+Day-2
+Dataset
+-------
+1.upload
+2.link
+3.manual
+Importing packages
+-------------------
+import pkg - import pandas as pd`
+from pkg import function -
+pip install pkg (runtime / terminal)
+---------------------
+ML steps
+1.importing pkg
+2.dataseT(DICT-->df)
+(preprocessing)
+3.X,Y
+4.model
+5.train
+6.test
+7.visualization
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,50 @@
+def bfs(graph, start):
+    visited = set()
+    queue = deque([start]) #Starts with A..
+    while queue: 
+#Continue until queue becomes empty.
+        node = queue.popleft()
+        if node not in visited:
+ #Has this node already been visited?
+            print(node, end=" ") #Leave one space.
+            visited.add(node) #current node
+            queue.extend(graph[node])
+_____________________________
+In Artificial Intelligence, an agent interacts with an environment.
+
+Agent → the system that makes decisions.
+Environment → the world or situation where the agent operates.
+Action → what the agent does to change or interact with the environment.
+Perception → what the agent observes from the environment.
+
+
+
+_______________________
+Flow:
+
+Environment → Perception → Agent → Action → Environment
+-----------------------
+ANN
+
+forward probagation
+i/p (weights+bias)summation -->Activation Function (threshold)-- > o/p
+
+Error function - compute
+Backward probagation (adjust Weights)
+O/P to I/p
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
