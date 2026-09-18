@@ -1,0 +1,15 @@
+1.What is the target variable?
+2.Is this classification or regression?
+3.How many features were used?
+4.Were there missing values?
+5.How were missing values handled?
+6.Were duplicate records found?
+7.Which features required encoding?
+8.Was feature scaling performed?
+9.What was the baseline model?
+10.Which models were compared?
+11.What are the MAE, RMSE and R² values?
+12.What feature engineering was performed?
+13.Which features were most important for the selected model?
+14.What limitations does the model have?
+15.How could the project be improved further?
