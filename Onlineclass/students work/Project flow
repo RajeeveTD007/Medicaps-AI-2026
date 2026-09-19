@@ -1,0 +1,134 @@
+Gitlink-- https://github.com/RajeeveTD007/Medicaps-AI-2026/upload/main/Onlineclass
+
+--------------------------------------------------------------
+HOUSE PRICE PREDICTION
+        │
+        ▼
+1. DEFINE PROBLEM
+   └─ Identify input → Predict house price
+        │
+        ▼
+2. LOAD DATASET
+   └─ read_csv()
+        │
+        ▼
+3. DATA VIEW
+   ├─ head()
+   ├─ tail()
+   ├─ sample()
+   └─ shape
+        │
+        ▼
+4. DATA UNDERSTANDING
+   ├─ columns
+   ├─ info()
+   ├─ dtypes
+   ├─ describe()
+   └─ unique values
+        │
+        ▼
+5. DATA QUALITY CHECK
+   ├─ Missing values
+   ├─ NaN values
+   ├─ Duplicates
+   ├─ Invalid values
+   └─ Outliers
+        │
+        ▼
+6. DATA EXPLORATION
+   ├─ Distribution plots
+   ├─ Scatter plots
+   ├─ Box plots
+   └─ Correlation heatmap
+        │
+        ▼
+7. DATA PREPROCESSING
+   ├─ Handle missing values
+   ├─ Remove duplicates
+   ├─ Handle outliers
+   ├─ Encode categorical data
+   ├─ Select features
+   └─ Scale features if required
+        │
+        ▼
+8. DEFINE X & y
+   ├─ X = Features
+   └─ y = Price
+        │
+        ▼
+9. TRAIN / TEST SPLIT
+   ├─ Training data
+   └─ Testing data
+        │
+        ▼
+10. BASELINE MODEL
+    └─ Linear Regression
+        │
+        ▼
+11. TRAIN MODEL
+    └─ fit()
+        │
+        ▼
+12. PREDICT
+    └─ predict()
+        │
+        ▼
+13. EVALUATE
+    ├─ MAE
+    ├─ MSE
+    ├─ RMSE
+    └─ R²
+        │
+        ▼
+14. FEATURE ENGINEERING
+    ├─ Create new features
+    ├─ Transform features
+    └─ Remove irrelevant features
+        │
+        ▼
+15. MODEL IMPROVEMENT
+    ├─ Linear Regression
+    ├─ Ridge Regression
+    └─ Random Forest
+        │
+        ▼
+16. MODEL COMPARISON
+    ├─ MAE
+    ├─ RMSE
+    └─ R²
+        │
+        ▼
+17. PREDICTION TESTING
+    └─ New house → Predicted price
+        │
+        ▼
+18. VISUALIZATION
+    ├─ Actual vs Predicted
+    ├─ Error analysis
+    └─ Feature importance
+        │
+        ▼
+19. FINAL DISCUSSION
+    ├─ Results
+    ├─ Limitations
+    └─ Future improvements
+        │
+        ▼
+20. COMPLETED ML PROJECT
+---------------------------------------------------------------------------
+1.What is the target variable?
+2.Is this classification or regression?
+3.How many features were used?
+4.Were there missing values?
+5.How were missing values handled?
+6.Were duplicate records found?
+7.Which features required encoding?
+8.Was feature scaling performed?
+9.What was the baseline model?
+10.Which models were compared?
+11.What are the MAE, RMSE and R² values?
+12.What feature engineering was performed?
+13.Which features were most important for the selected model?
+14.What limitations does the model have?
+15.How could the project be improved further?
+-------------------------------------------------------------------------
