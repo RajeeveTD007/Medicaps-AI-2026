@@ -1,0 +1,112 @@
+DIABETES DATASET
+        │
+        ▼
+1. DEFINE PROBLEM
+   └─ Identify input → Diabetes Dataset
+        │
+        ▼
+2. LOAD DATASET
+   └─ read_csv()
+        │
+        ▼
+3. DATA VIEW
+   ├─ head()
+   ├─ tail()
+   ├─ sample()
+   └─ shape
+        │
+        ▼
+4. DATA UNDERSTANDING
+   ├─ columns
+   ├─ info()
+   ├─ dtypes
+   ├─ describe()
+   └─ unique values
+        │
+        ▼
+5. DATA QUALITY CHECK
+   ├─ Missing values
+   ├─ NaN values
+   ├─ Duplicates
+   ├─ Invalid values
+   └─ Outliers
+        │
+        ▼
+6. DATA EXPLORATION
+   ├─ Distribution plots
+   ├─ Scatter plots
+   ├─ Box plots
+   └─ Correlation heatmap
+        │
+        ▼
+7. DATA PREPROCESSING
+   ├─ Handle missing values
+   ├─ Remove duplicates
+   ├─ Handle outliers
+   ├─ Encode categorical data
+   ├─ Select features
+   └─ Scale features if required
+        │
+        ▼
+8. DEFINE X & y
+   ├─ X 
+   └─ y 
+        │
+        ▼
+9. TRAIN / TEST SPLIT
+   ├─ Training data
+   └─ Testing data
+        │
+        ▼
+10. BASELINE MODEL
+    └─ Linear Regression
+        │
+        ▼
+11. TRAIN MODEL
+    └─ fit()
+        │
+        ▼
+12. PREDICT
+    └─ predict()
+        │
+        ▼
+13. EVALUATE
+    ├─ MAE
+    ├─ MSE
+    ├─ RMSE
+    └─ R²
+        │
+        ▼
+14. FEATURE ENGINEERING
+    ├─ Create new features
+    ├─ Transform features
+    └─ Remove irrelevant features
+        │
+        ▼
+15. MODEL IMPROVEMENT
+    Classification , Logistic
+        │
+        ▼
+16. MODEL COMPARISON
+    ├─ MAE
+    ├─ RMSE
+    └─ R²
+        │
+        ▼
+17. PREDICTION TESTING
+    └─ New entry
+        │
+        ▼
+18. VISUALIZATION
+    ├─ Actual vs Predicted
+    ├─ Error analysis
+    └─ Feature importance
+        │
+        ▼
+19. FINAL DISCUSSION
+    ├─ Results
+    ├─ Limitations
+    └─ Future improvements
+        │
+        ▼
+20. COMPLETED ML PROJECT
