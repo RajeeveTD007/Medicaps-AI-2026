@@ -1,0 +1,59 @@
+1.checked version
+-------------------
+
+python --version
+pip --version
+
+
+2.Creating a Virtual Environment
+--------------------------------
+
+python -m venv .venv
+.venv\Scripts\activate
+
+
+(if not working)
+
+pwd  //path- working directory
+cd $HOME
+
+mkdir sample
+cd sample
+python -m venv .venv
+.venv\Scripts\activate
+
+
+3.Creating a dataset-file
+-------------------------
+
+notepad dataset.csv
+Start-Process .\dataset.csv
+
+
+dataset
+train
+prediction
+
+4.Model_trining
+---------------
+
+notepad train_model.py
+python train_model.py
+
+
+5.Prediction
+--------------
+notepad app.py
+python app.py
+
+
+
+
+
+
+
+
+
+
+
+
