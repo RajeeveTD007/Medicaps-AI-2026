@@ -1,0 +1,13 @@
+Day 7  Email Spam Detection  
+Introduction       30min  
+Introduction to NLP and spam detection.    30 min:  
+Text preprocessing.       45 min:  
+TF-IDF/vectorization + Naive Bayes/classification.   15 min:  
+Initial evaluation. Students build a basic text-classification model. 
+ 
+Day 8 Email Spam Detection  
+Introduction       30min 
+Improving text preprocessing.     45 min:  
+Model training and evaluation.     30 min:  
+Test custom emails as spam/not spam.    15 min:  
+Project discussion. Completed email spam detection system
